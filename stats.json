@@ -1,0 +1,23 @@
+{
+  "users": [
+    557881280
+  ],
+  "section_clicks": {
+    "menu_jobs": 0,
+    "menu_grants": 0,
+    "menu_education": 0,
+    "menu_state": 0,
+    "menu_rehab": 0,
+    "menu_podilsk": 0,
+    "menu_ai": 0,
+    "menu_contacts": 1
+  },
+  "ai_queries": [
+    {
+      "user_id": 557881280,
+      "query": "/sendmessage",
+      "time": "08.06.2026 08:42"
+    }
+  ],
+  "total_messages": 26
+}
