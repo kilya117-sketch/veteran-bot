@@ -10,7 +10,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 # ===== НАЛАШТУВАННЯ =====
 import os
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
-GROQ_API_KEY = os.getenv("GROQ_API_KEY"))
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 CONTACT = "@kilya117"
 ADMIN_ID = 557881280
 GROUP_CHAT_ID = None  # Буде встановлено через /getid в групі
